@@ -1,4 +1,4 @@
-package com.marlon.example.uicustomviews;
+package com.marlon.example.uicustomviews.views;
 
 import android.content.Context;
 import android.support.annotation.IdRes;
@@ -8,6 +8,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.RadioButton;
+
+import com.marlon.example.uicustomviews.R;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
